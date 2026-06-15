@@ -1,6 +1,6 @@
 ## Intern Details
 
-**Name:** Kanuganti Mokshith
+**Name:** Srineeth Reddy
 
 ## Completed Tasks
 
